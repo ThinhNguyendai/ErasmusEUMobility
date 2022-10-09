@@ -20,3 +20,4 @@ Some variables such as *education_level* and *field_of_education* contain an unk
 
 # Exploration of variables
 ## Age
+![Screenshot](Images/Participants_Gender.png)
